@@ -1,7 +1,7 @@
 # Python imports
 import numpy as np
 import matplotlib.pyplot as plt
-import rrfc_gdspy as gds
+import rrfc as gds
 import os
 import time, sys, os
 #sys.path.append('~/pythonWork/rrfc/lib/python3.8/site-packages/')
